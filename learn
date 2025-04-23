@@ -4,5 +4,6 @@ Learn git basic commands for beginning
 - git clone
 - git add
 - git status
+- git log
 - git push
 - git pull
